@@ -1,0 +1,1 @@
+export const selectDraftByID = (id) => ({ Draft }) => Draft[id];
